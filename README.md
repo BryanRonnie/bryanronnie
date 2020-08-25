@@ -1,7 +1,7 @@
 <html>
 
 <head><h2 align="center">Hi, This is Bryan</h2>
-<h4 align="center">Let's have cup of coffee together!</h4>
+<h4 align="center">Let's have a cup of coffee together!</h4>
 <hr>
 
 <h1 align="center">I love working in the following fields</h1>
@@ -13,7 +13,6 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </p>
 
 <h3 align="center">Mobile Development</h3>
@@ -30,6 +29,7 @@
   
 <h3 align="center">Backend development</h3>
   <p align="center">
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </p>
 
 <h3 align="center">Database Management System</h3>
