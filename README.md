@@ -25,6 +25,7 @@
   <p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png" alt="css3" width="40" height="40"/> 
   </p>
   
 <h3 align="center">Backend development</h3>
