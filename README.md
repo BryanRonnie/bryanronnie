@@ -10,7 +10,7 @@
 
    <p align="center">
     <img src="Screenshot_portfoliopage.png" alt="python"/>
-  </p> -->
+  </p> 
 <!-- <h3 align="center">Programming languages</h3>
   <p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
